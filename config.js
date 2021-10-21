@@ -1,5 +1,5 @@
 global.DeveloperMode = 'false' //true Or false
-global.owner = ['6285795431803','6282164659362', '6282331033919'] // Put your number here
+global.owner = ['6283829386551','6285795431803','6282164659362', '6282331033919',] // Put your number here
 global.mods = ['6282331033919','6285795431803','6282164659362']  // Want some help?
 global.prems = ['6282331033919','6285795431803','6282164659362','6285821918425','628990745458','6283844878048'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -14,7 +14,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'ANDY BOTZ'
-global.author ='+6282164659362'
+global.author ='+6283829386551'
 
 global.multiplier = 69 // The higher, The harder levelup
 
