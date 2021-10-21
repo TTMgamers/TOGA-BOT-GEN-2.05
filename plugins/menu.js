@@ -98,8 +98,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
     let before = conn.menu.before || `
 ❕ *INFO*  : kini bot menjual nomor OTP canada, ketik *.toko* untuk melihat produk lainnya.
 
-❏  \`\`\`A N D Y - B O T Z\`\`\`
-├
+❏  \`\`\`TOGA BOT GEN2.05 x KOMUSUHAI\`\`\`
+├TTMgamersIND PRESENT TBG x KOMUSUHAI
 ├ N A M A : \`\`\`${name.vnmae || name.notify || name.name || ('+' + name.jid.split`@`[0])}\`\`\`
 ├ J A M : \`\`\`%time\`\`\`
 ├ T O T A L - U S E R : \`\`\`%totalreg\`\`\`
@@ -109,16 +109,16 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ├ U P - T I M E - B O T : \`\`\`%uptime\`\`\`
 ├ S C - O R I : 
 ├ \`\`\`github.com/Nurutomo/wabot-aq\`\`\`
-├ R E C O D E : \`\`\`A N D Y - O F F C\`\`\`
-├ O W N E R : \`\`\`wa.me/6285795431803\`\`\`
+├ R E C O D E : \`\`\`TOGA BOTZ\`\`\`
+├ O W N E R : \`\`\`wa.me/6283829386551\`\`\`
 ├ 
 └
 %readmore`
     let header = conn.menu.header || '❏ ```%category```\n'
     let body   = conn.menu.body   || '❏  *%cmd%islimit*'
     let footer = conn.menu.footer || '\n'
-    let after  = conn.menu.after  || '❏ ㅤ```T E N G S - T O``` \n\n*N U R U T O M O*\n*A N T I - B O T*\n*A N D Y - B O T Z*\n*A R I F F B*\n*W I L D A N - I Z Z U D I N*\n*D R A W L - N A G*\n\n❏ ㅤ```T E N G S - T O - T E A M``` \n\n*A N D Y × A N T I - B O T Z - O F F C*\n*A R G I O - D E V*'
-    let _text  = before + '\n'
+    let after  = conn.menu.after  || '❏ ㅤ``T E N G S - TO `` TTMgamersIND ANDI BOTZ
+    l
     for (let tag in groups) {
       _text += header.replace(/%category/g, tags[tag]) + '\n'
       for (let menu of groups[tag]) {
